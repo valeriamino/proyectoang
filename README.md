@@ -1,3 +1,6 @@
+Mi proyecto de angular lo he ido arreglando, no está 100% pero he aprendido mucho
+
+
 # AutoDeVenta
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
